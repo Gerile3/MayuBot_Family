@@ -10,8 +10,6 @@ Made a little fun project to teach myself how Discord api works and later will m
 
 ![pic1](https://github.com/Gerile3/MayuBot_Family/blob/master/Mayubot_Discord/Pictures/discord1.png)
 
-![pic2](https://github.com/Gerile3/MayuBot_Family/blob/master/Mayubot_Discord/Pictures/discord3.png)
-
 ## Did you like it? or have questions?
 
 Thank you for your interest! You can always send Gerile3#1419 a message on Discord to talk about bot.
