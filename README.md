@@ -14,7 +14,7 @@ Here is a collection repo of the bots that i have make over the course of my pyt
 
 * ### Mayubot_Discord
 
-  Discord bot that i have made to use on servers that i have own, she can do various things including listening songs in voice chat to search google for anything as well as playing little games. She is a shy one so only working in my server for now but you can see her in action [here](https://github.com/Gerile3/MayuBot_Family/Mayubot_Discord).
+  Discord bot that i have made to use on servers that i have own, she can do various things including listening songs in voice chat to search google for anything as well as playing little games. She is a shy one so only working in my server for now but you can see her in action [here](https://github.com/Gerile3/MayuBot_Family/tree/master/Mayubot_Discord).
 
 * ### Mayubot_Instagram
 

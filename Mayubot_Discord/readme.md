@@ -1,4 +1,4 @@
-![MayuBot_Discord](https://github.com/Gerile3/MayuBot_Family/Mayubot_Discord/blob/master/Pictures/discord2.png)
+![MayuBot_Discord](https://github.com/Gerile3/MayuBot_Family/tree/master/Mayubot_Discord/Pictures/discord2.png)
 
 # MayuBot_Discord
 
@@ -6,11 +6,11 @@
 
 Made a little fun project to teach myself how Discord api works and later will make it public in case some people might use it to check things, kill time, have fun.
 
-![MayuBot_Discord](https://github.com/Gerile3/MayuBot_Family/Mayubot_Discord/blob/master/Pictures/discord4.gif)
+![MayuBot_Discord](https://github.com/Gerile3/MayuBot_Family/tree/master/Mayubot_Discord/Pictures/discord4.gif)
 
-![pic1](https://github.com/Gerile3/MayuBot_Family/Mayubot_Discord/blob/master/Pictures/discord1.png)
+![pic1](https://github.com/Gerile3/MayuBot_Family/tree/master/Mayubot_Discord/Pictures/discord1.png)
 
-![pic2](https://github.com/Gerile3/MayuBot_Family/Mayubot_Discord/blob/master/Pictures/discord3.png)
+![pic2](https://github.com/Gerile3/MayuBot_Family/tree/master/Mayubot_Discord/Pictures/discord3.png)
 
 ## Did you like it? or have questions?
 
